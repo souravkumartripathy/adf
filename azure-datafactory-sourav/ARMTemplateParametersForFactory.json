@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "azure-datafactory-sourav"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
