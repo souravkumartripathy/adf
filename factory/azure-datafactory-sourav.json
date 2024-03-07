@@ -1,0 +1,9 @@
+{
+	"name": "azure-datafactory-sourav",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33a10028-22fa-4cc3-a2c1-bb9d5921f0cc",
+		"tenantId": "2b4b3f14-db43-4497-875e-21063adc9eb1"
+	}
+}
